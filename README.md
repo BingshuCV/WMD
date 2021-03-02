@@ -3,6 +3,8 @@ This is created for wearing mask detection. We have our paper "Hybrid
 Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era", which is submitted to "IEEE Transactions on Instrumentation & Measurement". 
 
 Dataset: 
+
+------WMD------
 We create a dataset named wearing mask detection (WMD).  It can be downloaded by: https://pan.baidu.com/s/1gfHD821Kej1ZSyM1BV-wLQ extract code：0gyw .
 
 It includes 7804 images with a total number of 26403 wearing masks. It is divided into three parts:
@@ -13,10 +15,12 @@ Validation set: 800 images, with 1936 wearing masks
 
 Testing set: 1594 images, with 6813 wearing masks.
 
+-----WMC-------
 Wearing Mask Classification Dataset can be downloaded by： https://pan.baidu.com/s/1tLtt6CkHDj5ACI7g7EVi8Q  extract code: jb7y . 
 It includes 19590 mask samples and 18555 background samples.
  
-Our model is trained under the environments:
+---------------
+Running environments:
 
 Windows 10 OS
 Tensorflow 1.5
