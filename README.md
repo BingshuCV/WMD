@@ -4,16 +4,21 @@ Transfer Learning and Broad Learning System for Wearing Mask Detection In the CO
 
 Dataset: 
 We create a dataset named wearing mask detection (WMD).  It can be downloaded by: https://pan.baidu.com/s/1gfHD821Kej1ZSyM1BV-wLQ extract code：0gyw .
+
 It includes 7804 images with a total number of 26403 wearing masks. It is divided into three parts:
+
 Training set: 5410 images, with 17654 wearing masks
+
 Validation set: 800 images, with 1936 wearing masks
+
 Testing set: 1594 images, with 6813 wearing masks.
 
 Wearing Mask Classification Dataset can be downloaded by： https://pan.baidu.com/s/1tLtt6CkHDj5ACI7g7EVi8Q  extract code: jb7y . 
 It includes 19590 mask samples and 18555 background samples.
  
 Our model is trained under the environments:
-Windows 10 OS.
+
+Windows 10 OS
 Tensorflow 1.5
 Intel Core i7-10700F CPU
 NVIDIA Geforce GTX 1660 Super with 6 GB memory
