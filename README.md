@@ -1,6 +1,5 @@
 # WMD
-This is created for wearing mask detection. We have our paper "Hybrid
-Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era", which is submitted to "IEEE Transactions on Instrumentation & Measurement". 
+This is created for wearing mask detection. We have our paper "Hybrid Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era" submitted to "IEEE Transactions on Instrumentation & Measurement". 
 
 Dataset: 
 
@@ -22,10 +21,7 @@ It includes 19590 mask samples and 18555 background samples.
 ---------------
 Running environments:
 
-Windows 10 OS
-Tensorflow 1.5
-Intel Core i7-10700F CPU
-NVIDIA Geforce GTX 1660 Super with 6 GB memory
+*Windows 10 OS   *Tensorflow 1.5   *NVIDIA Geforce GTX 1660 Super with 6 GB memory
 
 Thanks EdjeElectronics' work about how to use TensorFlow for object detection on Windows. 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#2-set-up-tensorflow-directory-and-anaconda-virtual-environment
