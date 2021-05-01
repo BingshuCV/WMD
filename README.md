@@ -4,7 +4,7 @@ This is created for wearing mask detection. We have our paper "Hybrid Transfer L
 
 Dataset: 
 
-------WMD------
+1、------WMD------
 We create a dataset named wearing mask detection (WMD).  It can be downloaded by: https://pan.baidu.com/s/1gfHD821Kej1ZSyM1BV-wLQ extract code：0gyw .
 
 It includes 7804 images with a total number of 26403 wearing masks. It is divided into three parts:
@@ -15,16 +15,22 @@ Validation set: 800 images, with 1936 wearing masks
 
 Testing set: 1594 images, with 6813 wearing masks.
 
------WMC-------
+2、-----WMC-------
+
 Wearing Mask Classification Dataset can be downloaded by： https://pan.baidu.com/s/1tLtt6CkHDj5ACI7g7EVi8Q  extract code: jb7y . 
 It includes 19590 mask samples and 18555 background samples.
  
  
- --------Face dataset-----
- It includes 4054 images with a total number of 16216 faces. 
+3、--------Face dataset-----
+
+It includes 4054 images with a total number of 16216 faces.
+
 Traiing set: 2407 images with 9368 faces
+
 Validation set:  500 images  with  1798 faces 
+
 Testing set:   1147 images with  5032 faces 
+
 They can be downloaded by https://pan.baidu.com/s/1jtKyGP4KMzKKIvrRg-PJQg 
 extract code: 86av .
  
