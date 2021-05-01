@@ -1,5 +1,6 @@
 # WMD
-This is created for wearing mask detection. We have our paper "Hybrid Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era" submitted to "IEEE Transactions on Instrumentation & Measurement". 
+This is created for wearing mask detection. We have our paper "Hybrid Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era" has been accepted by  "IEEE Transactions on Instrumentation & Measurement" with DOI 10.1109/TIM.2021.3069844. 
+
 
 Dataset: 
 
