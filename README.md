@@ -37,3 +37,19 @@ Running environments:
 Thanks EdjeElectronics' work about how to use TensorFlow for object detection on Windows. 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10#2-set-up-tensorflow-directory-and-anaconda-virtual-environment
  
+
+If you use this dataset or for a comparison, please cite it.
+
+@article{wang2021hybrid,
+  title={Hybrid Transfer Learning and Broad Learning System for Wearing Mask Detection In the COVID-19 Era},
+  author={Wang, Bingshu and Zhao, Yong and Chen, CL Philip},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2021},
+  publisher={IEEE}
+}
+
+Notably, the dataset is only used for academic use.  If you want to use it for commercial use, please contact us by wangbingshu@nwpu.edu.cn   .   
+
+We show special thanks to those who help us. Detailed acknowledge is presented in our paper. Hopefully our work
+can provide some help in the fighting against COVID-19. 
+
